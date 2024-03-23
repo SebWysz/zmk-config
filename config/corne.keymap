@@ -27,7 +27,7 @@
                 };
                 lower_layer {
 // -----------------------------------------------------------------------------------------
-// |  TAB | BT0 |     |     |     |     |                      |      | PGdn | PGup |     |     |      |
+// |  TAB | BT0 |     |     |     |     |                      |lftTab| PGdn | PGup|rgtTab|     |      |
 // | BTCLR| BT1 |     |     |     |     |                      | LFT  | DWN  | UP  | RGT |     |      |
 // | SHFT | BT2 |     |     |     |     |                      |      |      |     |     |     |      |
 //                    | GUI |     | SPC |                      | BKSP |      | ALT |
